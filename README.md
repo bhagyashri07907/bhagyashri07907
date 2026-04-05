@@ -43,19 +43,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagyashri07907\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagyashri07907&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhagyashri07907\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhagyashri07907&theme=radical)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashri07907\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashri07907&layout=compact&theme=radical)
 
 ---
 
