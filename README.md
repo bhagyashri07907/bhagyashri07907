@@ -43,19 +43,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagyashri07907&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagyashri07907\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhagyashri07907&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhagyashri07907\&theme=radical)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashri07907&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashri07907\&layout=compact\&theme=radical)
 
 ---
 
@@ -63,17 +63,4 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhagyashri07907\&theme=algolia)
 
----
-
-## 📌 Featured Projects
-
-* 🔹 Project 1: CV
-* 🔹 Project 2: Expanse Tracker 
-* 🔹 Project 3: Personal Dashboard 
-
----
-
-## ⚡ Fun Fact
-
-> I love solving problems and building cool things 🚀
 
